@@ -94,7 +94,7 @@ const productList = [
 ];
 
 
-function Breakouts_acne() {
+function BreakoutsAcne() {
   const [filteredPriceRange, setFilteredPriceRange] = useState([0, 11521]);
   const [inStockOnly, setInStockOnly] = useState(false);
   const navigate = useNavigate();
@@ -149,4 +149,4 @@ function Breakouts_acne() {
   );
 }
 
-export default Breakouts_acne ;
+export default BreakoutsAcne ;

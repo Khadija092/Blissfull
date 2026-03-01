@@ -2,7 +2,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
-function AboutUs_info() {
+function AboutUsInfo() {
   return (
     <Container style={{ marginTop: "30px" }}> {/* ✅ Added 20px Margin */}
       <Row>
@@ -82,4 +82,4 @@ function AboutUs_info() {
   );
 }
 
-export default AboutUs_info;
+export default AboutUsInfo;

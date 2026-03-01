@@ -2,7 +2,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
-function AboutUs_Container1() {
+function  AboutUsContainer1() {
   return (
     <Container fluid style={{ padding: "0" }}>
       <Row
@@ -21,4 +21,4 @@ function AboutUs_Container1() {
   );
 }
 
-export default AboutUs_Container1;
+export default  AboutUsContainer1;

@@ -1,13 +1,13 @@
-import AboutUs_Container1 from "./AboutUs-Container1";
-import AboutUs_info from "./AboutUs-info";
+import  AboutUsContainer1 from "./AboutUs-Container1";
+import AboutUsInfo from "./AboutUs-info";
 
 function AboutUs() {
   return (
     <>
     
-    <AboutUs_Container1 />
+    < AboutUsContainer1 />
     <br />
-    <AboutUs_info />
+    <AboutUsInfo />
     <br /> <br /> <br />
     </>
   );

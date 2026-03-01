@@ -19,7 +19,7 @@ import Serums from './Serums';
 import Moisturisers from './Moisturisers';
 import Cleansers from './Cleansers';
 import Sunscreen from './Sunscreen';
-import Breakouts_acne from './Breakouts_acne';
+import BreakoutsAcne from './BreakoutsAcne';
 import Dryness from './Dryness';
 import DarkSpots from './DarkSpots';
 import HealthyAging from './HealthyAging';
@@ -49,7 +49,7 @@ function App() {
       <Route path="/shop-by-category/cleansers" element={<Cleansers />}></Route>
       <Route path="/shop-by-category/sunscreens" element={<Sunscreen />}></Route>
 
-      <Route path="/shop-by-skin-concern/breakouts_acne" element={<Breakouts_acne/>}></Route>
+      <Route path="/shop-by-skin-concern/BreakoutsAcne" element={<BreakoutsAcne/>}></Route>
       <Route path="/shop-by-skin-concern/dryness" element={<Dryness />}></Route>
       <Route path="/shop-by-skin-concern/dark-spots" element={<DarkSpots />}></Route>
       <Route path="/shop-by-skin-concern/healthy-aging" element={<HealthyAging />}></Route>

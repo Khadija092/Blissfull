@@ -51,7 +51,7 @@ function Navbar() {
               SHOP BY SKIN CONCERN
             </div>
             <div className="absolute top-full left-0 w-48 bg-pink-200 shadow-lg rounded-md hidden group-hover:block">
-              <Link to="/shop-by-skin-concern/breakouts_acne" className="block px-4 py-2 text-white hover:bg-pink-300 border-b border-pink-300 no-underline">
+              <Link to="/shop-by-skin-concern/BreakoutsAcne" className="block px-4 py-2 text-white hover:bg-pink-300 border-b border-pink-300 no-underline">
                 Breakouts & Acne
               </Link>
               <Link to="/shop-by-skin-concern/dryness" className="block px-4 py-2 text-white hover:bg-pink-300 border-b border-pink-300 no-underline">
